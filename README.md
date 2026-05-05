@@ -1,31 +1,30 @@
-# 👋 Hey there, I'm Hari Prasanna
+Hey there! 👋  
+I'm Hari Prasanna, an AI-focused backend developer based in India.
 
-💻 Fresher | AI Systems Engineer | Backend Developer 
+I mostly work on backend systems and AI workflows — building things with Node.js, Spring Boot, and experimenting with LLMs like LLaMA.
 
----
+Lately, I’ve been focused on RAG pipelines, vector databases, and designing systems that actually solve real-world problems.
 
-## 🚀 About Me
-I'm a Computer Science student passionate about building **AI-powered systems** and scalable backend solutions.
-
-- 🧠 Working with LLMs, RAG pipelines & data workflows  
-- ⚙️ Backend-focused (Node.js, Spring Boot)  
-- 🎯 Interested in solving real-world problems with AI  
+This is where I’ll be sharing my projects — from AI systems to backend experiments — all built from scratch as I learn and improve.
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Java, Python  
-**Backend:** Node.js, Express.js, Spring Boot  
-**AI/ML:** LLaMA, RAG, Prompt Engineering  
-**Databases:** PostgreSQL, MySQL, ChromaDB  
-**Tools:** Git, Docker, OpenAPI  
+### Tools & Tech
+Node.js, Express, Spring Boot  
+Java, Python  
+LLaMA, RAG Pipelines, Prompt Engineering  
+PostgreSQL, MySQL, ChromaDB  
+Docker, Git  
 
 ---
 
-## 📫 Reach Me
-📧 m.hariprasanna.hp@gmail.com  
-🔗 LinkedIn: (linkedin.com/in/hari-prasanna)  
+### A Bit About Me
+🚀 I enjoy building AI systems that feel practical, not just theoretical  
+🧠 I like breaking down complex problems into simple solutions  
+🎯 Always exploring new tech, even outside my comfort zone  
+🤝 Active in tech communities and hackathons  
+🎮 I enjoy strategy-based systems and logic-heavy projects  
 
 ---
 
-⭐ *Open to internships, collaborations, and AI projects*
+📫 Reach me at: m.hariprasanna.hp@gmail.com  
